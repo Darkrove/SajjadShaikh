@@ -160,7 +160,7 @@ header a:hover::after {
 #boxes .box{
   float:left;
   text-align: center;
-  width:23%;
+  width:20%;
   padding:10px;
 }
 
