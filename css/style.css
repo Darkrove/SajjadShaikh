@@ -28,7 +28,7 @@ ul{
   padding-right:20px;
   color:#CCFF00;
   border-radius: 50px;
-  border: solid 2px #CCFF00; 
+  border: solid 2px #CCFF00;
 }
 
 button:hover{
@@ -160,7 +160,7 @@ header a:hover::after {
 #boxes .box{
   float:left;
   text-align: center;
-  width:20%;
+  width:23%;
   padding:10px;
 }
 
@@ -258,7 +258,7 @@ ul#services li{
   font-family: Oswald,Arial,Helvetica,sans-serif;
   color: #CCFF00;
   background: 0 0;
-  border: solid 2px #CCFF00; 
+  border: solid 2px #CCFF00;
   border-radius: 50px;
 
 }
@@ -381,7 +381,7 @@ text-align: center;
   border: solid 2px white;
   transition: 0.5s;
   transform: translate(0,0px);
-  
+
 }
 
 .social-menu ul li:nth-child(1) a:hover {
