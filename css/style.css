@@ -211,7 +211,7 @@ ul#services li{
 }
 
 /* Media Queries */
-@media(max-width: 768px){
+@media only screen and (max-width: 600px) {
   header #branding,
   header nav,
   header nav li,
