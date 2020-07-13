@@ -72,19 +72,21 @@
       <p>© 2020 SAJJAD SHAIKH ™ </p>
     </footer>
     <script src="js/three.r95.min.js"></script>
-<script src="js/vanta.net.min.js"></script>
+<script src="js/vanta.fog.min.js"></script>
 <script>
-VANTA.NET({
+VANTA.FOG({
   el: "section",
   mouseControls: true,
   touchControls: true,
   minHeight: 200.00,
   minWidth: 200.00,
-  scale: 1.00,
-  scaleMobile: 1.00,
-  color: 0xccff00,
-  backgroundColor: 0x384848,
-  showDots: false
+  blurFactor: 0.53,
+  highlightColor: 0xccff00,
+  midtoneColor: 0xa2a2a2,
+  lowlightColor: 0x0,
+  baseColor: 0x384848,
+  speed: 2.00
 })
+</script>
   </body>
 </html>
