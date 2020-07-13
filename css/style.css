@@ -158,9 +158,9 @@ header a:hover::after {
 }
 
 #boxes .box{
-  float:left;
+  float:none;
   text-align: center;
-  width:23%;
+  width:100%;
   padding:10px;
 }
 
